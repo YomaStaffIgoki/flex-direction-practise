@@ -1,0 +1,99 @@
+.parent
+{
+border: 1px solid black;
+width: 35vw;
+height: 60vh;
+padding: 8px;
+background-color: aquamarine;
+}
+.row
+{
+    display: flex;
+    margin: 8px;
+    justify-content: space-between;
+}
+.boxes
+{
+    border: 1px solid black;
+    width: 100px;
+    height: 30px;
+}
+.one, .two
+{
+    width: 275px;
+    margin: 0 2px 0 2px;
+}
+.three
+{
+    width: 50px;
+}
+.four, .seven
+{
+width: 100px;
+
+}
+.five, .six
+{
+width: 350px;
+margin: 0 2px 0 2px;
+}
+.eight, .nine
+{
+width: 450px;
+margin: 0 2px 0 2px;
+}
+.ten, .eleven, .twelve
+{
+width: 200px;
+margin: 0 2px 0 2px;
+}
+.thirteen
+{
+width: 300px;
+}
+.fourteen
+{
+width: 100px;
+}
+.fifteen
+{
+width: 800px;
+margin: 0 2px 0 2px;
+}
+.sixteen
+{
+width: 300px;
+margin: 0 2px 0 2px;
+}
+.seventeen
+{
+width: 600px;
+}
+.eighteen, .ninteen
+{
+width: 350px;
+margin: 0 2px 0 2px;
+}
+.eighteen
+{
+border-top-left-radius: 50%;
+}
+.ninteen
+{
+border-top-right-radius: 50%;
+}
+.twenty
+{
+width: 200px;
+border-top-left-radius: 100%;
+}
+.twenty-one
+{
+width: 800px;
+margin: 0 4px 0 4px;
+}
+.twenty-two
+{
+width: 60px;
+border-radius: 50%;
+}
